@@ -60,6 +60,6 @@
 // @connect      hohohubv-ac90f67762c4.herokuapp.com
 // @connect      tsuo-script.xyz
 // @icon         https://cdn141.picsart.com/351217840073211.png
-// @downloadURL https://github.com/BaconButPro/ron12373/raw/main/Install-Userscriot/Bypass.user.js
-// @updateURL https://github.com/BaconButPro/ron12373/raw/main/Install-Userscriot/Bypass.user.js
+// @downloadURL https://github.com/Alwyynn/Alwyynn/raw/main/UserScript-Install/Bypass-User.js
+// @updateURL https://github.com/Alwyynn/Alwyynn/raw/main/UserScript-Install/Bypass-User.js
 // ==/UserScript==

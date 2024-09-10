@@ -46,7 +46,7 @@
 // @grant        GM_notification
 // @grant        GM_openInTab
 
-// @license      Bacon
+// @license      Alwyynn
 // @connect      linkvertise.com
 // @connect      short-jambo.com
 // @connect      api.codex.lol

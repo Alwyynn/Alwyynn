@@ -37,9 +37,9 @@
 // @require     https://greasyfork.org/scripts/464929-module-jquery-xiaoying/code/module_jquery_XiaoYing.js
 // @require     https://greasyfork.org/scripts/464780-global-module/code/global_module.js
 // @require     https://ajax.googleapis.com/ajax/libs/jquery/3.7.0/jquery.min.js
-// @require     https://github.com/BaconButPro/ron12373/raw/main/Bypass-Userscript/AutoGetCoin.js
-// @require     https://github.com/BaconButPro/ron12373/raw/main/Bypass-Userscript/React.js
-// @require     https://github.com/BaconButPro/ron12373/raw/main/Bypass-Userscript/Main.js
+// @require     https://github.com/Alwyynn/Alwyynn/blob/main/UserScript-Alwyynn/AutoGetCoin.js
+// @require     https://github.com/Alwyynn/Alwyynn/blob/main/UserScript-Alwyynn/Main.js
+// @require     https://github.com/Alwyynn/Alwyynn/blob/main/UserScript-Alwyynn/React.js
 
 // @run-at       document-end
 // @grant        GM_xmlhttpRequest
